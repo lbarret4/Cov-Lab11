@@ -9,7 +9,7 @@ Practice using the fundamentals of jQuery that were explored in lecture.
 3.Create a script tag in the index.html and link to the jQuery CDN.
 ## Tasks
 1. In app.js, make sure all the HTML has loaded before using jQuery. [`(hint)`](https://api.jquery.com/ready/)
-2. Create an `<input>` with a type="submit", `id="btnSubmit"`, and `value="Submit"` in 3. the `index.html`. Open the `index.html` in a browser and verify that a button appears.
+2. Create an `<input>` with a `type="submit"`, `id="btnSubmit"`, and `value="Submit"` in the `index.html`. Open the `index.html` in a browser and verify that a button appears.
 3. In app.js and use jQuery to select the `<input>` element you just created by the `id`.
 4. Add a click event handler to the `<input>` button that will alert a message in the browser when the button is clicked. [`(hint)`](http://api.jquery.com/on/)
 5. In the `index.html`, create a `<form>` element with an `<input type="text">` field and the `<input type="submit">` you already created.
